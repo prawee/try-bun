@@ -1,2 +1,4 @@
-# Try `bun` with everything
-
+```
+npm install
+npm run deploy
+```
