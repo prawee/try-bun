@@ -1,0 +1,7 @@
+services:
+  app:
+    image: prawee/bun-aws
+    container_name: bun-aws
+    ports:
+      - "3000:3000"
+    
