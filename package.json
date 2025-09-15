@@ -11,5 +11,10 @@
   },
   "devDependencies": {
     "@types/bun": "latest"
+  },
+  "author": {
+    "name": "Prawee Wongsa",
+    "email": "prawee.won@techflow.asia",
+    "url": "https://github.com/prawee"
   }
 }
