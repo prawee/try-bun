@@ -3,6 +3,7 @@
   "scripts": {
     "dev": "bun run --hot src/index.ts",
     "build": "bun build src/index.ts --compile --outfile server",
+    "build:image": "docker build -t prawee/bun-aws . --push",
     "start": "./server"
   },
   "dependencies": {
